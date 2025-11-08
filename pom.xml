@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.ibm.hcom</groupId>
-	<artifactId>CodificacaoSeguraV2</artifactId>
+	<artifactId>CodificacaoSeguraV2pub</artifactId>
 	<version>1.0.0</version>
 	<name>HCOM 202501 Codificacao Segura V2</name>
 	<description>Código de Exemplo para infusão de Codificação Segura V2 do programa HCOM</description>
