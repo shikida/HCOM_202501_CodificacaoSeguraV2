@@ -1,0 +1,5 @@
+br\com\ibm\hcom\repository\Feriado1Repository.class
+br\com\ibm\hcom\Application.class
+br\com\ibm\hcom\repository\Feriado2Repository.class
+br\com\ibm\hcom\domain\Feriado2.class
+br\com\ibm\hcom\domain\Feriado1.class
